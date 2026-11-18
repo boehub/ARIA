@@ -269,4 +269,3 @@ Python, tkinter, Ollama and local LLMs, llama.cpp (GGUF), PyTorch, NumPy, Vosk, 
 ## Related public projects
 
 - [speech-to-text](https://github.com/boehub/speech-to-text): a fully local Whisper-based speech-to-text app
-- [data-skimmer](https://github.com/boehub/data-skimmer): drag-and-drop text extraction and question answering with a local LLM
